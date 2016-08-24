@@ -1,0 +1,1494 @@
+******************************* DEBUT 08/08/2016 16:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2351
+[O]	Lecture du fichier CSV reussie, 7 lignes lues (numero de derniere tache atteint)
+[O]	Acces au site http://172.17.54.110/colibri/
+[O]	Remplissage des champs de connexion
+[O]	Creation des taches
+	[1/7] Demande 2352 : Application SEVo : MCO
+		Lancement ajout tache
+		Sauvegarde des donnees du mail reussie
+		Sauvegarde des nouveaux parametres de configuration
+	[2/7] Demande 2357 : Application SEVo : MCO
+		Lancement ajout tache
+		Sauvegarde des donnees du mail reussie
+		Sauvegarde des nouveaux parametres de configuration
+	[3/7] Demande 2361 : Application SAV : MCO
+		Lancement ajout tache
+		Sauvegarde des donnees du mail reussie
+		Sauvegarde des nouveaux parametres de configuration
+	[4/7] Demande 2362 : Application OGPC : MCO
+		Lancement ajout tache
+		Sauvegarde des donnees du mail reussie
+		Sauvegarde des nouveaux parametres de configuration
+	[5/7] Demande 2363 : Application OGPC : MCO
+		Lancement ajout tache
+		Sauvegarde des donnees du mail reussie
+		Sauvegarde des nouveaux parametres de configuration
+	[6/7] Demande 2365 : Application SAV : MCO
+		Lancement ajout tache
+		Sauvegarde des donnees du mail reussie
+		Sauvegarde des nouveaux parametres de configuration
+	[7/7] Demande 2412 : Application SEVo : MCO
+		Lancement ajout tache
+		Sauvegarde des donnees du mail reussie
+		Sauvegarde des nouveaux parametres de configuration
+[O]	Suppression du fichier mail reussie
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 118s
+******************************** FIN 08/08/2016 16:00:00 ********************************
+
+
+******************************* DEBUT 08/08/2016 16:25:43 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 14s
+******************************** FIN 08/08/2016 16:25:43 ********************************
+
+
+******************************* DEBUT 08/08/2016 16:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 14s
+******************************** FIN 08/08/2016 16:30:00 ********************************
+
+
+******************************* DEBUT 08/08/2016 17:00:02 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 18s
+******************************** FIN 08/08/2016 17:00:02 ********************************
+
+
+******************************* DEBUT 08/08/2016 17:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 08/08/2016 17:30:00 ********************************
+
+
+******************************* DEBUT 08/08/2016 18:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 08/08/2016 18:00:00 ********************************
+
+
+******************************* DEBUT 08/08/2016 18:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 08/08/2016 18:30:00 ********************************
+
+
+******************************* DEBUT 08/08/2016 19:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 14s
+******************************** FIN 08/08/2016 19:00:00 ********************************
+
+
+******************************* DEBUT 08/08/2016 19:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 08/08/2016 19:30:00 ********************************
+
+
+******************************* DEBUT 08/08/2016 20:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 08/08/2016 20:00:00 ********************************
+
+
+******************************* DEBUT 08/08/2016 20:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 08/08/2016 20:30:00 ********************************
+
+
+******************************* DEBUT 08/08/2016 21:00:01 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 08/08/2016 21:00:01 ********************************
+
+
+******************************* DEBUT 08/08/2016 21:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 08/08/2016 21:30:00 ********************************
+
+
+******************************* DEBUT 08/08/2016 22:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 08/08/2016 22:00:00 ********************************
+
+
+******************************* DEBUT 08/08/2016 22:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 08/08/2016 22:30:00 ********************************
+
+
+******************************* DEBUT 08/08/2016 23:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 08/08/2016 23:00:00 ********************************
+
+
+******************************* DEBUT 08/08/2016 23:30:01 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 08/08/2016 23:30:01 ********************************
+
+
+******************************* DEBUT 09/08/2016 00:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 19s
+******************************** FIN 09/08/2016 00:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 00:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 00:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 01:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 09/08/2016 01:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 01:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 01:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 02:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 14s
+******************************** FIN 09/08/2016 02:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 02:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 02:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 03:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 14s
+******************************** FIN 09/08/2016 03:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 03:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 09/08/2016 03:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 04:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 09/08/2016 04:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 04:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 04:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 05:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 09/08/2016 05:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 05:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 09/08/2016 05:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 06:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 09/08/2016 06:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 06:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 09/08/2016 06:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 07:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 23s
+******************************** FIN 09/08/2016 07:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 07:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 18s
+******************************** FIN 09/08/2016 07:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 08:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 08:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 08:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 08:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 09:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 09:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 09:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 09/08/2016 09:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 10:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 09/08/2016 10:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 10:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 09/08/2016 10:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 11:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 09/08/2016 11:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 11:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 11:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 12:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 09/08/2016 12:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 12:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 18s
+******************************** FIN 09/08/2016 12:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 13:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 14s
+******************************** FIN 09/08/2016 13:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 13:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 13:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 14:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 09/08/2016 14:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 14:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 14:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 15:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 14s
+******************************** FIN 09/08/2016 15:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 15:30:01 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 15:30:01 ********************************
+
+
+******************************* DEBUT 09/08/2016 16:00:01 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 14s
+******************************** FIN 09/08/2016 16:00:01 ********************************
+
+
+******************************* DEBUT 09/08/2016 16:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 18s
+******************************** FIN 09/08/2016 16:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 17:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 09/08/2016 17:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 17:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 09/08/2016 17:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 18:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 09/08/2016 18:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 18:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 18:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 19:00:01 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 09/08/2016 19:00:01 ********************************
+
+
+******************************* DEBUT 09/08/2016 19:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 19:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 20:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 20:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 20:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 09/08/2016 20:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 21:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 21:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 21:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 18s
+******************************** FIN 09/08/2016 21:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 22:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 18s
+******************************** FIN 09/08/2016 22:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 22:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 09/08/2016 22:30:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 23:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 09/08/2016 23:00:00 ********************************
+
+
+******************************* DEBUT 09/08/2016 23:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 18s
+******************************** FIN 09/08/2016 23:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 00:00:01 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 18s
+******************************** FIN 10/08/2016 00:00:01 ********************************
+
+
+******************************* DEBUT 10/08/2016 00:30:01 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 10/08/2016 00:30:01 ********************************
+
+
+******************************* DEBUT 10/08/2016 01:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 10/08/2016 01:00:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 01:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 10/08/2016 01:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 02:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 10/08/2016 02:00:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 02:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 10/08/2016 02:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 03:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 10/08/2016 03:00:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 03:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 10/08/2016 03:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 04:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 10/08/2016 04:00:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 04:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 10/08/2016 04:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 05:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 10/08/2016 05:00:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 05:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 10/08/2016 05:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 06:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 10/08/2016 06:00:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 06:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 10/08/2016 06:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 07:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 14s
+******************************** FIN 10/08/2016 07:00:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 07:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 10/08/2016 07:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 08:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 14s
+******************************** FIN 10/08/2016 08:00:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 08:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 13s
+******************************** FIN 10/08/2016 08:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 09:00:01 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 10/08/2016 09:00:01 ********************************
+
+
+******************************* DEBUT 10/08/2016 09:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 13s
+******************************** FIN 10/08/2016 09:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 10:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 18s
+******************************** FIN 10/08/2016 10:00:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 10:30:01 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 10/08/2016 10:30:01 ********************************
+
+
+******************************* DEBUT 10/08/2016 11:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 14s
+******************************** FIN 10/08/2016 11:00:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 11:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 13s
+******************************** FIN 10/08/2016 11:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 12:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 10/08/2016 12:00:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 12:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 10/08/2016 12:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 13:00:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 14s
+******************************** FIN 10/08/2016 13:00:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 13:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 15s
+******************************** FIN 10/08/2016 13:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 14:00:01 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 10/08/2016 14:00:01 ********************************
+
+
+******************************* DEBUT 10/08/2016 14:30:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 17s
+******************************** FIN 10/08/2016 14:30:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 15:00:02 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 24s
+******************************** FIN 10/08/2016 15:00:02 ********************************
+
+
+******************************* DEBUT 10/08/2016 15:03:00 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+[O]	Telechargement reussi, chemin : data\issues.csv
+	Derniere tache ajoutee : 2412
+[O]	Lecture du fichier CSV reussie, 0 lignes lues (numero de derniere tache atteint)
+[X]	Aucune tache a ajouter
+[O]	Suppression du fichier CSV reussie
+Temps d'execution total : 16s
+******************************** FIN 10/08/2016 15:03:00 ********************************
+
+
+******************************* DEBUT 10/08/2016 15:11:07 *******************************
+[O]	Lecture du fichier .ini reussie
+[O]	Acces au site https://tickets.ixxi.net/
+[O]	Remplissage des champs de connexion
+[O]	Acces à la page toutes les demandes
+[O]	Click sur CSV
+******************************* DEBUT 10/08/2016 15:13:57 *******************************
+[O]	Lecture du fichier .ini reussie
